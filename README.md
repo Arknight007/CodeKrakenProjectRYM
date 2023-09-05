@@ -97,12 +97,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 [Back To The Top](#read-me-template)
-
----
-
-## Author Info
-
-- Twitter - [@JayPate99988366](https://twitter.com/JayPate99988366)
-- Website - [Jay Patel](https://jovial-sinoussi-e37e35.netlify.app/)
-
-[Back To The Top](#read-me-template)
